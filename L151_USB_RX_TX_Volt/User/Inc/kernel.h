@@ -1,8 +1,6 @@
 /*
- * au_logic.h
- *
- *  Created on: Mar 16, 2022
- *      Author: Heorenmaru
+ *   Author: Heorenmaru
+ *   License: CC-BY-SA
  */
 
 #ifndef __KERNEL_H___

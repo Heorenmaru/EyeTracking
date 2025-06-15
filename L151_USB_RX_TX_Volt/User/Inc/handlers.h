@@ -1,10 +1,9 @@
 /*
- * handlers.h
- *
- *  Created on: 15 июн. 2023 г.
- *      Author: kuznetsovdp
+ *   Author: Heorenmaru
+ *   License: CC-BY-SA
  */
-
+ 
+ 
 #ifndef INC_HANDLERS_H_
 #define INC_HANDLERS_H_
 #include <stdio.h>

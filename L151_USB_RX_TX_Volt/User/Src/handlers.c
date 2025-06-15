@@ -1,8 +1,6 @@
 /*
- * handlers.c
- *
- *  Created on: 15 июн. 2023 г.
- *      Author: kuznetsovdp
+ *   Author: Heorenmaru
+ *   License: CC-BY-SA
  */
 
 
